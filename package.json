@@ -1,5 +1,5 @@
 {
-  "name": "code-smith-info-soft-node",
+  "name": "codesmith-infosoft-node",
   "version": "1.0.0",
   "description": "A dynamic and scalable IT company website built with Node.js, Express.js, and MongoDB. Includes backend API support for services, contact forms, authentication, and more.",
   "homepage": "https://github.com/mihirkasodariya/code-smith-info-soft-node.js#readme",
@@ -33,5 +33,6 @@
     "nodemon": "^3.1.10",
     "path": "^0.12.7",
     "url": "^0.11.4"
-  }
+  },
+  "devDependencies": {}
 }
